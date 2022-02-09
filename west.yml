@@ -43,8 +43,6 @@ manifest:
     - name: mcux-sdk-middleware-tensorflow
       revision: MCUX_2.10.0
       path: middleware/eiq/tensorflow-lite
-    - name: appswpacks-ml-state-monitor
-      revision: af2e97cda4fed9d319ac35931da6c2216673b6f0
-      path: examples
+
   self:
-    path: appswpacks-ml-state-monitor
+    path: examples
